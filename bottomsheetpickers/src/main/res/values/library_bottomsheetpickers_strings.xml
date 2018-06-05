@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="define_BottomSheetPickers"></string>
+    <string name="library_BottomSheetPickers_author">Phillip Hsu</string>
+    <string name="library_BottomSheetPickers_authorWebsite">https://github.com/philliphsu</string>
+    <string name="library_BottomSheetPickers_libraryName">BottomSheetPickers</string>
+    <string name="library_BottomSheetPickers_libraryDescription">BottomSheetPickers is a library of new date and time pickers for Android, supporting API level 14 and up.</string>
+    <string name="library_BottomSheetPickers_libraryVersion">2.4.1</string>
+    <string name="library_BottomSheetPickers_libraryWebsite">https://github.com/philliphsu/BottomSheetPickers</string>
+    <string name="library_BottomSheetPickers_licenseId">apache_2_0</string>
+    <string name="library_BottomSheetPickers_isOpenSource">true</string>
+    <string name="library_BottomSheetPickers_repositoryLink">https://github.com/philliphsu/BottomSheetPickers</string>
+    <string name="library_BottomSheetPickers_classPath">com.philliphsu.bottomsheetpickers</string>
+    <string name="library_BottomSheetPickers_owner">Phillip Hsu</string>
+    <string name="library_BottomSheetPickers_year">2017</string>
+</resources>
